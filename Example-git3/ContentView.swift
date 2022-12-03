@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "star")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, world from sihyeon2!")
             Text("hello git from main")
             Text("hello git from sihyeon2")
             Text("editted from sihyeon2")
