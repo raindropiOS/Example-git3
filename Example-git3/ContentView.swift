@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "pencil")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, world from main!")
             Text("hello git from main")
         }
         .padding()
